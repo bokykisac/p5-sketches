@@ -4,7 +4,7 @@ start
 :Transfer Phase;
 note right
   long running activity,
-  process requires signal to proceeddsadsa
+  process requires signal to TESTIRAM
 end note
 :Termination Phase;
 stop
