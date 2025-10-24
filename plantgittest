@@ -3,7 +3,7 @@ start
 :Init Phase;
 :Transfer Phase;
 note right
-  long running activity,
+  DA IMA VERZIJA 3,
   process requires signal to TESTIRAM
 end note
 :Termination Phase;
